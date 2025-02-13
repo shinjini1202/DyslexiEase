@@ -41,8 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyB7oBXEMm7k92lLlrGpShgGCVPZMJncTMY',
-    appId: '1:276990450661:web:8d3f2efc0ffa25cea6ed0c',
+   // ADD API KEY & APP ID HERE //
     messagingSenderId: '276990450661',
     projectId: 'dyslexiease',
     authDomain: 'dyslexiease.firebaseapp.com',
