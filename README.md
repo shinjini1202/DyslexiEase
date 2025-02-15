@@ -1,4 +1,5 @@
 # dyslexiease
+by Shinjini Nag
 
 A new Flutter project.
 
